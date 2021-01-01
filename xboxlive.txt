@@ -16,3 +16,11 @@ eds.xboxlive.com
 signals-ratings.xboxlive.com
 login.live.com
 roamingprofile.xboxlive.com
+eplists.xboxlive.com
+manifest.xboxlive.com
+titlestorage.xboxlive.com
+tiles.xbox.com
+download-ssl.xbox.com
+beacons.xboxlive.com
+socialaggregation.xboxlive.com
+userpresence.xboxlive.com

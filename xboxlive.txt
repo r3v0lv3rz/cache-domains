@@ -8,4 +8,9 @@ xbox-mbr.xboxlive.com
 assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 d1.xboxlive.com
-
+download.xbox.com
+services.xboxlive.com
+epix.xbox.com
+marketplace-xb.xboxlive.com
+eds.xboxlive.com
+signals-ratings.xboxlive.com

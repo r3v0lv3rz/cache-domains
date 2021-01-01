@@ -14,3 +14,5 @@ epix.xbox.com
 marketplace-xb.xboxlive.com
 eds.xboxlive.com
 signals-ratings.xboxlive.com
+login.live.com
+roamingprofile.xboxlive.com

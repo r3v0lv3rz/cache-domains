@@ -29,3 +29,4 @@ comments.xboxlive.com
 download.xboxlive.com
 avatar.xboxlive.com
 settings.xboxlive.com
+piflc.xboxlive.com

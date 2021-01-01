@@ -30,3 +30,4 @@ download.xboxlive.com
 avatar.xboxlive.com
 settings.xboxlive.com
 piflc.xboxlive.com
+images-eds.xboxlive.com

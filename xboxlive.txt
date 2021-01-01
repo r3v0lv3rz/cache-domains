@@ -24,3 +24,7 @@ download-ssl.xbox.com
 beacons.xboxlive.com
 socialaggregation.xboxlive.com
 userpresence.xboxlive.com
+catalog-cdn.xboxlive.com
+comments.xboxlive.com
+download.xboxlive.com
+avatar.xboxlive.com
